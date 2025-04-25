@@ -1,6 +1,5 @@
 # terraform-Ecommerce-AKS-Cluster
 terraform-Ecommerce-AKS-Cluster
-
 # Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using Terraform
 # -----------------------------------------------------------------------------
 #Install and configure Terraform.
