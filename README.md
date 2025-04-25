@@ -22,7 +22,7 @@ terraform-Ecommerce-AKS-Cluster
 #providers.tf
 #==============
 
-cat <<EOF> providers.tf
+cat <<<EOF>> providers.tf
 terraform {
   required_version = ">=1.0"
 
